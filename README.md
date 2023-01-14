@@ -1,7 +1,7 @@
-Hey Yo 👋
+<h1>I am Asemota Ayevbosa</h1><br>
 
-Hi My name is AY (Asemota Ayevbosa)
-Front-End Developer and Product Designer
+<h2>Front-End Developer and Product Designer</h2>
+
 I am a creative and logical front-end developer and product designer with 2 years+ of experience creating highly usable websites and user interfaces (UI) with the best user experience (UX) and flow.
 
 🌍  I'm based in Benin, Nigeria <br>
