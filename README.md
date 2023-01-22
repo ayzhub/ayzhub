@@ -1,6 +1,6 @@
 <h1>Hi👋 I am Asemota Ayevbosa</h1><br>
 
-<h2>Front-End Developer and Product Designer</h2>
+<h2>Front-End Developer and User Interface/Expirence Designer</h2>
 
 I am a creative and logical front-end developer and product designer with 2 years+ of experience creating highly usable websites and user interfaces (UI) with the best user experience (UX) and flow.
 
