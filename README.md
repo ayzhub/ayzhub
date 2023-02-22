@@ -10,6 +10,7 @@ src="https://img.shields.io/github/followers/ayzhub?logo=github&style=for-the-ba
 <a href="https://www.twitter.com/Lets_PL_AYz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Lets_PL_AYz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+<a href="https://wa.me/+2349018464044/" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 
 - 🔭 I’m currently working on **Banky**
 
