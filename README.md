@@ -1,9 +1,9 @@
 ![backdrop](https://raw.githubusercontent.com/ayzhub/ayzhub/main/images/content/readme.png)
 
-<h1>Hi <img width="50px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"/>
+<h1 align:"center">Hi <img width="50px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"/>
 , I'm Asemota Ayevbosa (PL-AY!)</h1>
-<h2>Front End Developer and UI/UX Designer</h2>
-<p>With my experience as a proficient Front-End Developer and UI/UX Designer, I bring a distinctive blend of creativity and rationality to the table, which allows me to craft websites and user interfaces (UI) that are not only user-friendly but also offer an exceptional user experience (UX) and smooth functionality. I have consistently exhibited my problem-solving abilities and met deadlines with ease throughout my career. My zeal lies in identifying ways for brands and organizations to stand out by creating user-centric products.</p>
+<h2 align:"center">Front End Developer and UI/UX Designer</h2>
+<p align:"center">With my experience as a proficient Front-End Developer and UI/UX Designer, I bring a distinctive blend of creativity and rationality to the table, which allows me to craft websites and user interfaces (UI) that are not only user-friendly but also offer an exceptional user experience (UX) and smooth functionality. I have consistently exhibited my problem-solving abilities and met deadlines with ease throughout my career. My zeal lies in identifying ways for brands and organizations to stand out by creating user-centric products.</p>
 
 <a href="https://www.github.com/ayzhub" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ayzhub?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
