@@ -1,4 +1,4 @@
-[backdrop](https://raw.githubusercontent.com/ayzhub/ayzhub/main/images/content/readme.png)
+![backdrop](https://raw.githubusercontent.com/ayzhub/ayzhub/main/images/content/readme.png)
 
 <h1>Hi <img width="50px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"/>
 , I'm Asemota Ayevbosa (PL-AY!)</h1>
