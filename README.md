@@ -1,7 +1,9 @@
-<!-- ![Masterhead](https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=) -->
-<h1 align="center">Hi 👋, I'm Asemota Ayevbosa (PL-AY!)</h1>
-<h3 align="center">I am a creative and logical front-end developer and product designer with 2 years+ of experience creating highly usable websites and user interfaces (UI) with the best user experience (UX) and flow.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<h1>Hi <img width="50px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"/>
+, I'm Asemota Ayevbosa (PL-AY!)</h1>
+<h3>Front End Developer and UI/UX Designer</h3>
+<p>With my experience as a proficient Front-End Developer and UI/UX Designer, I bring a distinctive blend of creativity and rationality to the table, which allows me to craft websites and user interfaces (UI) that are not only user-friendly but also offer an exceptional user experience (UX) and smooth functionality. I have consistently exhibited my problem-solving abilities and met deadlines with ease throughout my career. My zeal lies in identifying ways for brands and organizations to stand out by creating user-centric products.</p>
+
+<!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayzhub&label=Profile%20views&color=0e75b6&style=flat" alt="ayzhub" /> </p>
 
