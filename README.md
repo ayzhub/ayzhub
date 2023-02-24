@@ -52,16 +52,19 @@ src="https://img.shields.io/twitter/follow/Lets_PL_AYz?logo=twitter&style=for-th
 
 <h3>My GitHub Stats</h3>
 
-<a href="http://www.github.com/ayzhub"><img src="https://github-readme-stats.vercel.app/api?username=ayzhub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ayzhub's GitHub stats" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ayzhub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ayzhub's GitHub stats" /></a>
 
-<a href="http://www.github.com/ayzhub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzhub&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzhub&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <h3>Top Repositories</h3> 
 
-<div width="100%" align="center"><a href="https://github.com/ayzhub/ayzhub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayzhub&repo=ayzhub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/ayzhub/koki" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayzhub&repo=koki&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/ayzhub/ayzhub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayzhub&repo=ayzhub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/ayzhub/koki" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayzhub&repo=koki&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  </div>
+  <br /><br /><br /><br /><br /><br />
 
-<a href="http://www.github.com/ayzhub"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayzhub&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="#"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayzhub&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/iamayz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/iamayz" /></a></p><br><br>
