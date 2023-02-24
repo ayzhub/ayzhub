@@ -48,7 +48,7 @@ src="https://img.shields.io/twitter/follow/Lets_PL_AYz?logo=twitter&style=for-th
 
 <h3 align="left">Badges</h3>
 
-<a href="https://app.daily.dev/PL_AY"><img src="https://api.daily.dev/devcards/0881c47c16b34513bb7e7537410886f1.png?r=yo2" width="400" alt="AY Asemota's Dev Card"/></a>
+<a href="https://app.daily.dev/PL_AY"><img src="https://api.daily.dev/devcards/0881c47c16b34513bb7e7537410886f1.png?r=6cf" width="400" alt="AY Asemota's Dev Card"/></a>
 
 <h3>My GitHub Stats</h3>
 
