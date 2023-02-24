@@ -1,7 +1,8 @@
 ![backdrop](https://raw.githubusercontent.com/ayzhub/ayzhub/main/images/content/readme.png)
 
 <h1 align="center">Hi <img width="50px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"/>
-, I'm Asemota Ayevbosa (PL-AY!)</h1>
+, I'm Asemota Ayevbosa</h1>
+<h2 align="center">AY  Loves To PL-<b>AY!</b></h2>
 <h2 align="center">Front End Developer and UI/UX Designer</h2>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-Front End-FAB040?style=flat&logoColor=white"></a>
@@ -15,8 +16,7 @@ With my experience as a proficient Front-End Developer and UI/UX Designer, I bri
 
 <a href="https://www.github.com/ayzhub" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ayzhub?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.twitter.com/Lets_PL_AYz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Lets_PL_AYz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/Lets_PL_AYz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Lets_PL_AYz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 <a href="https://wa.me/+2349018464044/" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 
@@ -67,4 +67,4 @@ src="https://img.shields.io/twitter/follow/Lets_PL_AYz?logo=twitter&style=for-th
 <a href="#"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayzhub&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/iamayz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/iamayz" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/iamayz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p><br><br>
