@@ -1,24 +1,3 @@
-/*--------------------- Copyright (c) 2022 -----------------------
-[Master Stylesheet]
-
-Project: Portfolio Responsive HTML Template
-Version: 1.0.6
-Assigned to: ThemeForest
--------------------------------------------------------------------
-
-[Table of contents]
-
-1. Body
-2. Typography css / a
-3. Main Wrapper / .prt_main_wrapper
-4. About css Start / .prt_about_wrapper
-5. Contact Page css Start / .prt_contact_wrapper
-6. Services css Start / .prt_services_wrapper
-7. Portfolio css Start / .prt_portfolio_wrapper
-8. Footer css Start / .prt_footer_wrapper
-9. Responsive css Start / .prt_counter_box
--------------------------------------------------------------------*/
-/*--------- Body Strat -------*/
 body {
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
@@ -30,8 +9,6 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-/*--------- Body End -------*/
-/*---------- Typography Css Start -------*/
 a {
     color: #b7b7b7;
     text-decoration: none;
@@ -114,7 +91,6 @@ button:focus {
 
 #status img {}
 
-/*---------- Heading Css Start -------*/
 .prt_heading_wrapper {
     text-align: center;
 }
@@ -172,7 +148,6 @@ button:focus {
     margin-bottom: 30px;
 }
 
-/*---------- Button css End -------*/
 .prt_btn {
     height: 50px;
     line-height: 50px;
@@ -208,8 +183,6 @@ button:focus {
     transition: all 0.3s;
 }
 
-/*---------- Typography css End -------*/
-/*---------- Main Wrapper css Start -------*/
 .prt_main_wrapper {
     position: relative;
     overflow-x: hidden;
@@ -364,7 +337,6 @@ button:focus {
     margin-top: -15px;
 }
 
-/*---------- About css Start -------*/
 .prt_about_wrapper {
     background-color: #010101;
     position: absolute;
@@ -802,7 +774,6 @@ button:focus {
     margin-bottom: 0px;
 }
 
-/*---------- Contact Page css Start -------*/
 .prt_contact_wrapper {
     background-color: #010101;
     position: absolute;
@@ -977,7 +948,6 @@ button:focus {
     transition: all 0.3s;
 }
 
-/*---------- Services css Start -------*/
 .prt_services_wrapper {
     background-color: #010101;
     position: absolute;
@@ -1081,29 +1051,6 @@ button:focus {
     width: 100%;
 }
 
-/* .prt_services_slider_text{
-	float:left;
-	
-	text-align:center;
-	overflow:hidden;
-	
-	margin-bottom:30px;
-	cursor:pointer;
-	-webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    -ms-transition: all 0.3s;
-    -o-transition: all 0.3s;
-    transition: all 0.3s;
-}
-.prt_services_slider_text:hover img, .prt_services_slider_text.active img{
-	width:86px;
-	height:100px;
-	-webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    -ms-transition: all 0.3s;
-    -o-transition: all 0.3s;
-    transition: all 0.3s;
-} */
 .prt_services_slider_text img {
     display: inline-block;
     width: 60px;
@@ -1313,7 +1260,6 @@ button.prt_btn.prt_loadMore {
     margin: 0px 0px 80px;
 }
 
-/*---------- Portfolio css Start -------*/
 .prt_portfolio_wrapper {
     background-color: #010101;
     position: absolute;
@@ -1443,7 +1389,6 @@ button.prt_btn.prt_loadMore {
     color: #000000;
 }
 
-/*---------- Footer css Start -------*/
 .prt_footer_wrapper {
     background-color: #0a0a0a;
     padding: 30px 0px;
@@ -1522,8 +1467,6 @@ button.prt_btn.prt_loadMore {
     transition: all 0.3s;
 }
 
-/*---------- Main Wrapper css End -------*/
-/*---------- Responsive css Start -------*/
 @media (min-width: 992px) and (max-width: 1199px) {
     .prt_counter_box {
         padding-left: 50px;
@@ -1874,149 +1817,3 @@ button.prt_btn.prt_loadMore {
     }
 }
 
-/* Custom Cursor */
-
-* {
-  background-color: black;
-}
-
-/* ----------------------------
-
-  cursor styles
-
---------------------------- */
-
-.cursor {
-    pointer-events: none;
-    position: fixed;
-    z-index: 10;
-    top : 0;
-    left : 0;
-    display: block;
-
-    /*styles applied for showing / hiding cursor - do not touch*/
-    -webkit-transition: opacity 300ms linear;
-    -moz-transition: opacity 300ms linear;
-    -o-transition: opacity 300ms linear;
-    transition: opacity 300ms linear;
-    opacity: 0;
-
-    /*element width*/
-    width: 6px;
-    height: 6px;
-}
-
-.cursor.moving {
-    opacity: 1;
-}
-
-.cursor::before {
-    content: ' ';
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    background-color: #ffffff;
-    border-radius: 50%;
-    top: 0;
-    left: 0;
-
-    /* transitions animations*/
-    opacity: 1;
-    -webkit-transition: opacity 300ms linear;
-    -moz-transition: opacity 300ms linear;
-    -o-transition: opacity 300ms linear;
-    transition: opacity 300ms linear;
-}
-
-/* expand is the class you assigned with the plugin to cursor when a selected element is hovered*/
-.cursor.expand::before {
-    opacity: 0;
-   
-
-}
-
-
-/* ----------------------------
-
-  node styles
-
---------------------------- */
-
-.node {
-    pointer-events: none;
-    position: fixed;
-    z-index: 100;
-    top: 0;
-    left: 0;
-    display: block;
-
-    /*styles applied for showing / hiding cursor - do not touch*/
-    -webkit-transition: opacity 300ms linear;
-    -moz-transition: opacity 300ms linear;
-    -o-transition: opacity 300ms linear;
-    transition: opacity 300ms linear;
-    opacity: 0;
-    
-    /*element width*/
-    width: 32px;
-    height: 32px;
-
-}
-
-.node.moving {
-      opacity: 1;
-}
-
-.node::before {
-    content: ' ';
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    background-color: transparent;
-    border-radius: 50%;
-    top: 0;
-    left: 0;
-    border: 1px solid #ffffff;
-    /*states and transitions animations*/
-    transform: scale(1.5);
-    opacity: 1;
-    -webkit-transition: opacity 300ms linear, transform 300ms linear, border 300ms linear, background-color 300ms linear;
-    -moz-transition: opacity 300ms linear, transform 300ms linear, border 300ms linear, background-color 300ms linear;
-    -o-transition: opacity 300ms linear, transform 300ms linear, border 300ms linear, background-color 300ms linear;
-    transition: opacity 300ms linear, transform 300ms linear, border 300ms linear, background-color 300ms linear;
-
-}
-
-/* expand is the class you assigned with the plugin to cursor when a selected element is hovered*/
-.node.expand::before {
-     transform: scale(3);
-    background-color: #ffffff;
-    opacity: 0.2;
-   
-
-}
-
-/*.node.reduce {
-    transform: scale(1);
-    background-color: #ffffff;
-}*/
-
-
-
-.hover__btn {
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    font-weight: 900;
-    letter-spacing: 2px;
-    color: #ffffff;
-    text-decoration: none; 
-    outline: none;
-    text-transform: uppercase;
-    cursor : none;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -moz-transform : translate(-50%, -50%);
-    -webkit-transform : translate(-50%, -50%);
-    transform : translate(-50%, -50%);
-}

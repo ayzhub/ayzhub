@@ -1,4 +1,3 @@
-
 (function ($) {
 	"use strict";
 
@@ -167,13 +166,22 @@
 			tar = $(this).attr('href').split('#')[1];
 			targetSection = $('.prt_' + tar + '_wrapper');
 			if (tar == 'about') {
-				AplCss = { 'top': 0 };
+				AplCss = {
+					'top': 0
+				};
 			} else if (tar == 'contact') {
-				AplCss = { 'left': 0 };
+				AplCss = {
+					'left': 0
+				};
 			} else if (tar == 'services') {
-				AplCss = { 'bottom': 0, 'top': 0 };
+				AplCss = {
+					'bottom': 0,
+					'top': 0
+				};
 			} else if (tar == 'portfolio') {
-				AplCss = { 'right': 0 };
+				AplCss = {
+					'right': 0
+				};
 			}
 			targetSection.css('display', 'block');
 			targetSection.animate(AplCss, timing);
@@ -185,17 +193,33 @@
 		$('img#prt_close_tab').on('click', function () {
 			hide_section();
 		});
+
 		function hide_section() {
 			if (tar == 'about') {
-				AplCss = { 'display': 'none', 'top': '-100%' };
+				AplCss = {
+					'display': 'none',
+					'top': '-100%'
+				};
 			} else if (tar == 'contact') {
-				AplCss = { 'display': 'none', 'left': '100%' };
+				AplCss = {
+					'display': 'none',
+					'left': '100%'
+				};
 			} else if (tar == 'services') {
-				AplCss = { 'display': 'none', 'bottom': '0', 'top': '100%' };
+				AplCss = {
+					'display': 'none',
+					'bottom': '0',
+					'top': '100%'
+				};
 			} else if (tar == 'portfolio') {
-				AplCss = { 'display': 'none', 'right': '100%' };
+				AplCss = {
+					'display': 'none',
+					'right': '100%'
+				};
 			}
-			setTimeout(function () { targetSection.css('display', 'none'); }, timing);
+			setTimeout(function () {
+				targetSection.css('display', 'none');
+			}, timing);
 			targetSection.animate(AplCss, timing);
 		};
 
