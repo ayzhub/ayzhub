@@ -203,7 +203,7 @@ button:focus {
 }
 
 .prt_home_wrapper {
-    background-image: url(../images/content/banner_bg.jpg);
+    background-image: url(../images/banner_bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -218,7 +218,7 @@ button:focus {
     font-size: 150px;
     color: #ffffff;
     font-weight: bold;
-    background: url(../images/content/pattern.jpg) no-repeat;
+    background: url(../images/pattern.jpg) no-repeat;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: cover;
@@ -1087,7 +1087,7 @@ button:focus {
 .prt_couter_wrapper {
     display: inline-block;
     width: 100%;
-    background-image: url(../images/content/serv1.jpg);
+    background-image: url(../images/serv1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1162,7 +1162,7 @@ button:focus {
 }
 
 #circles-1 {
-    background-image: url(../images/content/progress_1.png);
+    background-image: url(../images/progress_1.png);
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -1170,7 +1170,7 @@ button:focus {
 }
 
 #circles-2 {
-    background-image: url(../images/content/progress_2.png);
+    background-image: url(../images/progress_2.png);
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -1178,7 +1178,7 @@ button:focus {
 }
 
 #circles-3 {
-    background-image: url(../images/content/progress_3.png);
+    background-image: url(../images/progress_3.png);
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -1186,7 +1186,7 @@ button:focus {
 }
 
 #circles-4 {
-    background-image: url(../images/content/progress_4.png);
+    background-image: url(../images/progress_4.png);
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
