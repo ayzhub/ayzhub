@@ -1,4 +1,4 @@
-![PL-AY!](https://raw.githubusercontent.com/ayzhub/ayzhub/main/developer/images/readme.png)
+![PL-AY! This Bug is Being Squashed!](https://raw.githubusercontent.com/ayzhub/ayzhub/main/developer/images/readme.png)
 
 <h1 align="center">Hi <img width="50px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"/>
 , I'm Asemota Ayevbosa</h1>
