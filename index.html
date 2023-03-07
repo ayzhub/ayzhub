@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-	<title>PL-AY!🤸</title>
+	<title>Let's PL-AY!🚗</title>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<meta name="description" content="Welcome to AYz Portfolio!">
@@ -22,11 +22,27 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 
 	<link rel="shortcut icon" type="image/png" href="images/favicon.png">
+
+	<script>
+
+		var titles = ["Let's PL-AY!🚗", "Let's PL-AY🚗","Let's PL-A🚗", "Let's PL-🚗", "Let's PL🚗", "Let's P🚗", "Let's 🚗", "Let's🚗", "Let'🚗", "Let🚗", "Le🚗", "L🚗", "🚗", "🚗", "🚗", "Let's PL-AY!🚗", "Let's PL-AY!🚗", "Let's PL-AY!🚗"];
+		var index = 0;
+
+		function changeTitle() {
+		document.title = titles[index];
+		index++;
+			if (index == titles.length) {
+			index = 0;
+			}
+		}
+
+		setInterval(changeTitle, 500);
+
+	</script>
 </head>
 
 <body>
 
-	<!-- design gif for preloader -->
 	<div id="preloader">
 		<div id="status">
 			<img src="images/Loader.png" alt="loader">
