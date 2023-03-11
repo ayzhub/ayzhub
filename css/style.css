@@ -5,7 +5,8 @@ body {
     color: #b7b7b7;
     overflow: hidden;
     height: 100%;
-    background-color: #010101;
+    /* background-color: #010101; */
+    background: url(https://www.youtube.com/watch?v=APSFou3KaBA)
     -webkit-font-smoothing: antialiased;
 }
 
@@ -1087,7 +1088,7 @@ button:focus {
 .prt_couter_wrapper {
     display: inline-block;
     width: 100%;
-    background-image: url(../images/serv1.jpg);
+    background-image: url(../images/readme.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1200,6 +1201,7 @@ button:focus {
 .prt_skills_wrapper {
     display: inline-block;
     width: 100%;
+    background: black;
 }
 
 .prt_footer_wrapper.prt_footer-space {
