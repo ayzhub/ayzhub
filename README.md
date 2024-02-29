@@ -5,6 +5,10 @@
     
   <br>
   <br>
+
+  <h1>Development Tools</h1>
+
+  <br>
   
   <div style="display: inline_block">
     <p align="center">
@@ -15,17 +19,9 @@
       <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">      
       <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-      <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg">
-      <img align="center" alt="Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg">
-      <img align="center" alt="XD" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg">
-      <img align="center" alt="AfterEffect" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg">
-      <img align="center" alt="XD" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg">
     </p>
   </div>
 </a> 
-
-<br>
-<br>
   
 <div align="center"> 
   <!-- <p align="center">
@@ -42,7 +38,7 @@
 </p>
 <br>
 
-#### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
+#### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Check Out My Playlist&nbsp;
 
 <br>
 
@@ -50,7 +46,7 @@
 
 <br>
 
-<h1 style="color:white; font-size: 36px; font-weight: bold; text-shadow: 2px 2px 4px #000000;">Goodbye! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px"/></h1>
+<h1 style="color:white; font-size: 36px; font-weight: bold; text-shadow: 2px 2px 4px #000000;">Okhay Byeee! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px"/></h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b7be3&height=120&section=footer"/>
 
