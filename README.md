@@ -1,8 +1,8 @@
 <a align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b7be3&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b7be3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+AY+Asemota;I'm+a+Front+End+Developer;)
-
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b7be3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+AY+Asemota;I'm+a+Front+End+Developer;)
+    
   <br>
   <br>
   
@@ -22,38 +22,38 @@
       <img align="center" alt="XD" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg">
     </p>
   </div>
-</a>
+</a> 
 
 <br>
 <br>
   
 <div align="center"> 
-    <!-- <p align="center">
-        <a href="https://www.linkedin.com/in/ay-asemota-88913a196/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a> 
-        <a href="https://api.whatsapp.com/send?phone=+2349018464044" target="_blank"> 
-        <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-        </a> 
-        <a href="https://www.linkedin.com/in/ay-asemota-88913a196/" target="_blank"> 
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> 
-        </a>
-    </p>  -->
-    </p>
-    <br>
-
-    #### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing
-
-    <br>
-
-    ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=mz7cvj887a8u1pwovnjqmwg4y)
-
-    <br>
-
-    <h1 style="color:white; font-size: 36px; font-weight: bold; text-shadow: 2px 2px 4px #000000;">Goodbye! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px"/></h1>
-
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b7be3&height=120&section=footer"/>
-
+  <!-- <p align="center">
+    <a href="https://www.linkedin.com/in/ay-asemota-88913a196/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a> 
+    <a href="https://api.whatsapp.com/send?phone=+2349018464044" target="_blank"> 
+      <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+    </a> 
+    <a href="https://www.linkedin.com/in/ay-asemota-88913a196/" target="_blank"> 
+      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> 
     </a>
+  </p>  -->
+</p>
+<br>
+
+#### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
+
+<br>
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=mz7cvj887a8u1pwovnjqmwg4y)
+
+<br>
+
+<h1 style="color:white; font-size: 36px; font-weight: bold; text-shadow: 2px 2px 4px #000000;">Goodbye! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px"/></h1>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b7be3&height=120&section=footer"/>
+
+</a>
 
 </div>
