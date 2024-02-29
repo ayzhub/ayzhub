@@ -35,7 +35,7 @@
 </p>
 <br>
 
-#### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Check Out My Playlist&nbsp;
+#### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Recently Played&nbsp;
 
 <br>
 
