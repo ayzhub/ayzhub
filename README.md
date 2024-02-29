@@ -1,10 +1,7 @@
 <a align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b7be3&height=120&section=header"/>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b7be3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+AY+Asemota;I'm+a+Front+End+Developer;)
-    
-  <br>
-  <br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b7be3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+AY+Asemota;I'm+a+Front+End+Developer;)
 
   <h1 align="center">Development Tools</h1>
 
